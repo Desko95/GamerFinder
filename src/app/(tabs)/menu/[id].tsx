@@ -68,6 +68,7 @@ const ProductDetailsScreen = () => {
 };
 
 const styles = StyleSheet.create({
+
   container: {
     backgroundColor: "white",
     flex: 1,
@@ -104,6 +105,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: "500",
   },
+  
 });
 
 export default ProductDetailsScreen;
