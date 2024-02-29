@@ -36,10 +36,10 @@ const products = [
   },
   {
     id: 6,
-    name: 'Hawaiian',
+    name: 'I Refuse.',
     image:
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/hawaiin.png',
-    price: 10.49,
+    price: 990.49,
   },
   {
     id: 7,
