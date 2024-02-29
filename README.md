@@ -18,7 +18,7 @@ __________________________________________________________
 __________________________________________________________
 
 https://www.youtube.com/watch?v=rIYzLhkG9TA
-min - 54.30
+min - 1:16.30
 
 material : 
 https://notjust.notion.site/React-Native-Supabase-Masterclass-47a69a60bc464c399b5a0df4d3c4a630?p=c89bba6af21e45489975ba1e490241a0&pm=s
