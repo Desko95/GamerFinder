@@ -1,3 +1,5 @@
+https://notjust.notion.site/React-Native-Supabase-Masterclass-47a69a60bc464c399b5a0df4d3c4a630?p=086fd8293ad240399a5043c45c6750d5&pm=s
+
 cd into project folder 
 created app from cmd line using
 __________________________________________________________
@@ -14,10 +16,18 @@ npm install @react-navigation/material-top-tabs react-native-tab-view
 npm install react-native-pager-view
 __________________________________________________________
 __________________________________________________________
+
+DONE WITH THE UI, FROM HERE ON WE DOING BACK END
+_________________________________________________________
+npm install @supabase/supabase-js
+npm install react-native-elements @react-native-async-storage/async-storage react-native-url-polyfill
+npx expo install expo-secure-store
 __________________________________________________________
-
-
-
+__________________________________________________________
+__________________________________________________________
+__________________________________________________________
+__________________________________________________________
+__________________________________________________________
 
 
 __________________________________________________________
@@ -29,7 +39,7 @@ min - 2:55:50
 
 second assignment: 2.57.50
 
-3:28:00     error to fix, app currently not running (dont push git stuff now. do tomorrow after checking video)
+3:33:00 I'M HERE
 ___________________________________________________________________________________________________
 ___________________________________________________________________________________________________
 ___________________________________________________________________________________________________
