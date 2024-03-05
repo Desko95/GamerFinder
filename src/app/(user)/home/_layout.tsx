@@ -3,7 +3,7 @@ import { FontAwesome } from "@expo/vector-icons";
 import { Link, Stack } from "expo-router";
 import { Pressable } from "react-native";
 
-export default function MenuStack() {
+export default function homeStack() {
   return (
     <Stack screenOptions={{
       headerRight: () => (
@@ -11,7 +11,7 @@ export default function MenuStack() {
           <Pressable>
             {({ pressed }) => (
               <FontAwesome
-                name="shopping-cart"
+                name="home"
                 size={25}
                 color={Colors.light.tint}
                 style={{ marginRight: 15, opacity: pressed ? 0.5 : 1 }}
@@ -21,7 +21,7 @@ export default function MenuStack() {
         </Link>
       ),
     }}>
-      <Stack.Screen name="index" options={{ title: 'Menu' }} />
+      <Stack.Screen name="index" options={{ title: 'home' }} />
     </Stack>
   );
 }
