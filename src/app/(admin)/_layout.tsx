@@ -35,7 +35,7 @@ export default function TabLayout() {
           title: "Home",
           headerShown: false,
           tabBarIcon: ({ color }) => (
-            <TabBarIcon name="cutlery" color={color} />
+            <TabBarIcon name="home" color={color} />
           ),
         }}
       />
