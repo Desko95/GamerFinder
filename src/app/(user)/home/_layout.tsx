@@ -3,7 +3,7 @@ import { FontAwesome } from "@expo/vector-icons";
 import { Link, Stack } from "expo-router";
 import { Pressable } from "react-native";
 
-export default function homeStack() {
+export default function HomeStack() {
   return (
     <Stack screenOptions={{
       headerRight: () => (
@@ -11,7 +11,7 @@ export default function homeStack() {
           <Pressable>
             {({ pressed }) => (
               <FontAwesome
-                name="home"
+                name="pencil"
                 size={25}
                 color={Colors.light.tint}
                 style={{ marginRight: 15, opacity: pressed ? 0.5 : 1 }}

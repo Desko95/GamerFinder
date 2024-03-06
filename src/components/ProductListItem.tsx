@@ -15,7 +15,7 @@ const ProductListItem = ({ product }: ProductListItemProps) => {
 
 
   return (
-    //this should have been a ./ but its not working so this is a way to work around the problem
+    //this should have been a ./ but its not working so this is a way to work around the problem video at : 1 : 10 : 18 
     <Link href={`/${segments[0]}/home/${product.id}`} asChild> 
       <Pressable style={styles.container}>
         <Image
