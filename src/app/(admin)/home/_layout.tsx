@@ -9,9 +9,9 @@ export default function HomeStack() {
       <Stack.Screen
         name="index"
         options={{
-          title: "Menu",
+          title: "Home",
           headerRight: () => (
-            <Link href="/(admin)/home/create" asChild>
+            <Link href="/" asChild>
               <Pressable>
                 {({ pressed }) => (
                   <FontAwesome
