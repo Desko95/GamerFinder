@@ -21,7 +21,7 @@ DONE WITH THE UI, FROM HERE ON WE DOING BACK END
 _________________________________________________________
 npm install @supabase/supabase-js
 npm install react-native-elements @react-native-async-storage/async-storage react-native-url-polyfill
-npx expo install expo-secure-store
+npx expo install expo-secure-store 
 __________________________________________________________
 __________________________________________________________
 __________________________________________________________
